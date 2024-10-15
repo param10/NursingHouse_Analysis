@@ -32,7 +32,7 @@ Installation & Usage
 To run this analysis, follow these steps:
 
 	1.	Clone the repository:
- git clone https://github.com/param10/NursingHome_Analysis.git
+ 	git clone https://github.com/param10/NursingHouse_Analysis
 
  Technologies Used
 
