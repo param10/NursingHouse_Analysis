@@ -2,7 +2,7 @@
 
 Overview
 
-This project provides an in-depth analysis of nursing homes across the United States. By leveraging publicly available data, we explore various aspects of elderly care, including facility performance, staffing, health inspections, and other key metrics. The goal of this analysis is to uncover trends, identify challenges, and highlight opportunities for improvement in the U.S. nursing home system.
+This project provides an in-depth analysis of nursing homes Staffing Challenges in U.S. Nursing Homes: A Data-Driven Approach. By leveraging publicly available data, we explore various aspects of elderly care, including facility performance, staffing, health inspections, and other key metrics. The goal of this analysis is to uncover trends, identify challenges, and highlight opportunities for improvement in the U.S. nursing home system.
 
 Features
 
